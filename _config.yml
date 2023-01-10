@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Didier Barradas Bautista"
-title_separator          : "-"
-subtitle                 : "Visualization Scientist / Data scientist / Machine learning / Artificial Intelligence"# site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Visualization Scientist / Data scientist / Machine learning / Artificial Intelligence" # site tagline that appears below site title in masthead
 name                     : "Didier Barradas Bautista"
 description              : "My personal website for profesional proupuses and occational opinions pretty mucnh about AI and data science."
-url                      : "https://d-barradas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://d-barradas.github.io/personal_wp/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -230,6 +230,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
