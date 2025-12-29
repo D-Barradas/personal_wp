@@ -136,7 +136,7 @@ author:
       url: "https://github.com/D-Barradas"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user="
+      url: "https://scholar.google.com/citations?user=3bG_86EAAAAJ&hl=en"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       url: "https://github.com/D-Barradas"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user="
+      url: "https://scholar.google.com/citations?user=3bG_86EAAAAJ&hl=en"
   since: "2022"
 
 
