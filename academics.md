@@ -316,30 +316,32 @@ permalink: /academics/
   <div style="max-width: 900px; margin: 0 auto;">
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
       
-      <div style="padding: 20px; background: var(--light-gray); border-radius: 8px; border: 2px solid var(--primary-blue);">
-        <h4 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">👥 Professional Memberships</h4>
-        <ul style="color: #555; line-height: 1.8; margin: 0; padding-left: 20px;">
-          <li>[Organization/Society Name]</li>
-          <li>[Organization/Society Name]</li>
-          <li>[Add more memberships]</li>
+      <div style="padding: 20px; background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(10px); border-radius: 8px; border: 2px solid rgba(255, 140, 0, 0.3);">
+        <h4 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">👥 Professional Memberships</h4>
+        <ul style="color: rgba(255, 255, 255, 0.8); line-height: 1.8; margin: 0; padding-left: 20px;">
+          <li>NVIDIA Deep Learning Institute (DLI) University Ambassador</li>
+          <li>Certified Instructor from Deep Learning Institute</li>
+          <li>Certified Instructor from The Carpentries</li>
+          <li>International Society of Computational Biology (ISCB)</li>
         </ul>
       </div>
 
-      <div style="padding: 20px; background: var(--light-gray); border-radius: 8px; border: 2px solid var(--primary-blue);">
-        <h4 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">🎯 Languages</h4>
-        <ul style="color: #555; line-height: 1.8; margin: 0; padding-left: 20px;">
+      <div style="padding: 20px; background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(10px); border-radius: 8px; border: 2px solid rgba(255, 140, 0, 0.3);">
+        <h4 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">🎯 Languages</h4>
+        <ul style="color: rgba(255, 255, 255, 0.8); line-height: 1.8; margin: 0; padding-left: 20px;">
           <li>Spanish - Native</li>
           <li>English - Fluent</li>
-          <li>[Add other languages]</li>
         </ul>
       </div>
 
-      <div style="padding: 20px; background: var(--light-gray); border-radius: 8px; border: 2px solid var(--primary-blue);">
-        <h4 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">📋 Other Qualifications</h4>
-        <ul style="color: #555; line-height: 1.8; margin: 0; padding-left: 20px;">
-          <li>[Add qualification]</li>
-          <li>[Add qualification]</li>
-          <li>[Add qualification]</li>
+      <div style="padding: 20px; background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(10px); border-radius: 8px; border: 2px solid rgba(255, 140, 0, 0.3);">
+        <h4 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📋 Computer Skills</h4>
+        <ul style="color: rgba(255, 255, 255, 0.8); line-height: 1.8; margin: 0; padding-left: 20px;">
+          <li>Programming: Python, R, Julia, Bash</li>
+          <li>ML/DL: PyTorch, TensorFlow, Scikit-learn, XGBoost</li>
+          <li>HPC: RAPIDS, pySpark, Dask, CUDA</li>
+          <li>Data Viz: Seaborn, Matplotlib, Plotly, Streamlit</li>
+          <li>Tools: Git, Docker, Linux, LaTeX</li>
         </ul>
       </div>
 
