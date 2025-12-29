@@ -184,46 +184,126 @@ permalink: /academics/
   
   <div style="max-width: 900px; margin: 0 auto;">
     
-    <div style="padding: 25px; background: white; border-top: 4px solid var(--accent-orange); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">📄 [Publication Title]</h3>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Authors:</strong> [Your Name], et al.
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Coral-CAT: A semi-automatic coral color analysis tool</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> N. Garcias-Bonet, <strong>D. Barradas</strong>, M. Casartelli, A. Halimi, R. Peixoto
       </p>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Published in:</strong> [Journal/Conference Name] • <strong>Year:</strong> [Year]
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Coral Reefs • <strong>Year:</strong> 2025
       </p>
-      <p style="color: #555; line-height: 1.6; margin-bottom: 10px;">
-        [Add abstract or summary of the research contribution]
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        A semi-automatic tool for analyzing coral color patterns using advanced image processing techniques.
       </p>
-      <a href="#" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View Publication</a>
+      <a href="https://scholar.google.com/scholar?q=Coral-CAT%3A%20A%20semi-automatic%20coral%20color%20analysis%20tool" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
     </div>
 
-    <div style="padding: 25px; background: white; border-top: 4px solid var(--accent-orange); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">📄 [Research Project/Thesis Title]</h3>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Role:</strong> [Your Role]
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 ForamDeepSlice: A High-Accuracy Deep Learning Framework</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> A. Halimi, A. Alibrahim, <strong>D. Barradas</strong>, R. Sicat, A. M. Afifi
       </p>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Year:</strong> [Year]
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> arXiv • <strong>Year:</strong> 2025
       </p>
-      <p style="color: #555; line-height: 1.6; margin-bottom: 10px;">
-        [Add project details and research focus]
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Deep learning framework for foraminifera species classification from 2D Micro-CT slices with high accuracy.
       </p>
-      <a href="#" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View Details</a>
+      <a href="https://scholar.google.com/scholar?q=ForamDeepSlice%3A%20A%20High-Accuracy%20Deep%20Learning%20Framework%20for%20Foraminifera%20Species%20Classification" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
     </div>
 
-    <div style="padding: 25px; background: white; border-top: 4px solid var(--accent-orange); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">📄 [Conference Presentation/Paper]</h3>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Presented at:</strong> [Conference Name]
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Increasing the fraction of correct solutions in protein-protein docking</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> T. Ricciardelli, <strong>D. Barradas</strong>, Z. Cao, M. Chawla, L. Cavallo, R. Oliva
       </p>
-      <p style="color: #666; margin-bottom: 8px;">
-        <strong>Year:</strong> [Year]
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Protein Science • <strong>Year:</strong> 2025
       </p>
-      <p style="color: #555; line-height: 1.6; margin-bottom: 10px;">
-        [Add presentation details and key takeaways]
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Novel iterative consensus algorithm to improve protein-protein docking model accuracy.
       </p>
-      <a href="#" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View Details</a>
+      <a href="https://scholar.google.com/scholar?q=Increasing%20the%20fraction%20of%20correct%20solutions%20in%20ensembles%20of%20protein%E2%80%93protein%20docking%20models%20by%20an%20iterative%20consensus%20algorithm" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Optimizing GAN Training for 3D Seismic Microstructure Generation</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> Y. Ghazal, M. Awadalla, <strong>D. Barradas</strong>, A. Ayyad, A. Nasr, S. Ghani
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Eighth High Performance Computing Workshop • <strong>Year:</strong> 2024
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Advanced GAN training optimization for generating 3D seismic microstructure data.
+      </p>
+      <a href="https://scholar.google.com/scholar?q=Optimizing%20GAN%20Training%20for%203D%20Seismic%20Microstructure%20Generation" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Comparative Analysis of Super-Resolution Techniques in Micro-CT Imaging</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> M. Awadalla, Y. Ghazal, <strong>D. Barradas</strong>, A. Ayyad, A. Nasr, S. Ghani
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Eighth High Performance Computing Workshop • <strong>Year:</strong> 2024
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Systematic analysis of super-resolution techniques for enhancing micro-CT imaging quality.
+      </p>
+      <a href="https://scholar.google.com/scholar?q=Comparative%20Analysis%20of%20Super-Resolution%20Techniques%20in%20Micro-CT%20Imaging" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Impact of AlphaFold on Structure Prediction of Protein Complexes</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> Lensink, M.F., Brysbaert, G., ..., <strong>Barradas-Bautista, D.</strong>, et al.
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Proteins: Structure, Function, and Bioinformatics • <strong>Year:</strong> 2023
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Community-wide assessment of AlphaFold's impact on protein complex structure prediction (CASP15-CAPRI).
+      </p>
+      <a href="https://scholar.google.com/scholar?q=Impact%20of%20AlphaFold%20on%20Structure%20Prediction%20of%20Protein%20Complexes%3A%20The%20CASP15-CAPRI%20Experiment" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 Discriminating physiological from non-physiological interfaces</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> Schweke, H., Tauriello, G., ..., <strong>Barradas-Bautista, D.</strong>, et al.
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Proteomics • <strong>Year:</strong> 2023
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        Community-wide study on discriminating physiological from non-physiological protein complex interfaces.
+      </p>
+      <a href="https://scholar.google.com/scholar?q=Discriminating%20physiological%20from%20non-physiological%20interfaces%20in%20structures%20of%20protein%20complexes%3A%20a%20community-wide%20study" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div class="publication-card">
+      <h3 style="color: var(--white); font-weight: 700; margin-bottom: 10px;">📄 The LightDock Server: AI-powered modeling of macromolecular interactions</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Authors:</strong> Jiménez-García, B., Roel-Touris, J., <strong>Barradas-Bautista, D.</strong>
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 8px;">
+        <strong>Published in:</strong> Nucleic Acids Research • <strong>Year:</strong> 2023
+      </p>
+      <p style="color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 10px;">
+        AI-powered web server for modeling macromolecular interactions using advanced docking algorithms.
+      </p>
+      <a href="https://scholar.google.com/scholar?q=The%20LightDock%20Server%3A%20Artificial%20Intelligence-powered%20modeling%20of%20macromolecular%20interactions" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">📎 View on Google Scholar</a>
+    </div>
+
+    <div style="text-align: center; margin-top: 40px; padding: 30px; background: rgba(255, 140, 0, 0.1); border-radius: 12px; border: 1px solid rgba(255, 140, 0, 0.3);">
+      <h3 style="color: var(--white); font-size: 1.3rem; margin-bottom: 15px;">📚 View Complete Publication List</h3>
+      <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 20px;">
+        Explore my complete publication history, citations, and research metrics on Google Scholar.
+      </p>
+      <a href="https://scholar.google.com/citations?user=3bG_86EAAAAJ&hl=en" style="display: inline-block; padding: 12px 30px; background: var(--accent-orange); color: var(--white); text-decoration: none; border-radius: 5px; font-weight: 600; transition: all 0.3s;">
+        <i class="fas fa-graduation-cap"></i> Visit Google Scholar Profile
+      </a>
     </div>
 
   </div>
