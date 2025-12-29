@@ -401,16 +401,36 @@ body {
 }
 
 .masthead {
-  background: var(--dark-blue);
+  background: var(--dark-blue) !important;
   border-bottom: 1px solid var(--accent-orange);
 }
 
+.masthead__inner-wrap {
+  background: var(--dark-blue) !important;
+}
+
+.masthead__menu {
+  background: var(--dark-blue) !important;
+}
+
+.site-title {
+  color: var(--white) !important;
+}
+
 .greedy-nav a {
-  color: var(--white);
+  color: var(--white) !important;
+}
+
+.greedy-nav .visible-links a {
+  color: var(--white) !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: var(--accent-orange) !important;
 }
 
 .greedy-nav a:hover {
-  color: var(--accent-orange);
+  color: var(--accent-orange) !important;
 }
 
 .page__footer {
