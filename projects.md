@@ -29,219 +29,133 @@ permalink: /projects/
 <section class="section-container alternate">
   <div class="project-grid" style="max-width: 1200px; margin: 0 auto;">
     
-    <!-- Project 1 -->
+    <!-- Project 1: Micro-fossil Classification -->
     <div class="project-card" data-category="ml">
-      <div class="project-image">🧠</div>
-      <div class="project-content">
-        <h3 class="project-title">Project Title 1</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Machine Learning
-        </p>
-        <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
-        </p>
-        <div class="project-tech">
-          <span class="tech-badge">Python</span>
-          <span class="tech-badge highlight">TensorFlow</span>
-          <span class="tech-badge">Deep Learning</span>
-        </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
-        </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 2 -->
-    <div class="project-card" data-category="viz">
-      <div class="project-image">📊</div>
-      <div class="project-content">
-        <h3 class="project-title">Project Title 2</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Data Visualization
-        </p>
-        <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
-        </p>
-        <div class="project-tech">
-          <span class="tech-badge">Plotly</span>
-          <span class="tech-badge highlight">React</span>
-          <span class="tech-badge">Interactive</span>
-        </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
-        </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 3 -->
-    <div class="project-card" data-category="data">
-      <div class="project-image">📈</div>
-      <div class="project-content">
-        <h3 class="project-title">Project Title 3</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Data Science
-        </p>
-        <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
-        </p>
-        <div class="project-tech">
-          <span class="tech-badge">Python</span>
-          <span class="tech-badge highlight">Pandas</span>
-          <span class="tech-badge">Analytics</span>
-        </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
-        </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 4 -->
-    <div class="project-card" data-category="ml">
-      <div class="project-image">🤖</div>
-      <div class="project-content">
-        <h3 class="project-title">Project Title 4</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Machine Learning
-        </p>
-        <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
-        </p>
-        <div class="project-tech">
-          <span class="tech-badge">PyTorch</span>
-          <span class="tech-badge highlight">NLP</span>
-          <span class="tech-badge">Transformers</span>
-        </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
-        </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 5 -->
-    <div class="project-card" data-category="viz">
-      <div class="project-image">🎨</div>
-      <div class="project-content">
-        <h3 class="project-title">Project Title 5</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Data Visualization
-        </p>
-        <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
-        </p>
-        <div class="project-tech">
-          <span class="tech-badge">D3.js</span>
-          <span class="tech-badge highlight">JavaScript</span>
-          <span class="tech-badge">Interactive</span>
-        </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
-        </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 6 -->
-    <div class="project-card" data-category="data">
       <div class="project-image">🔬</div>
       <div class="project-content">
-        <h3 class="project-title">Project Title 6</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Data Science
+        <h3 class="project-title">Micro-fossil Classification</h3>
+        <p style="color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-bottom: 10px;">
+          <strong>Organization:</strong> KAUST Visualization Lab | <strong>Period:</strong> 2025 - 2026
         </p>
         <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
+          Led a team of KAUST staff to develop an advanced deep learning system for micro-fossil classification from 2D Micro-CT slices. 
+          Managed data provenance and coordinated analysis workflows to achieve high-accuracy species identification.
         </p>
         <div class="project-tech">
-          <span class="tech-badge">R</span>
-          <span class="tech-badge highlight">Statistics</span>
-          <span class="tech-badge">ggplot2</span>
+          <span class="tech-badge highlight">Deep Learning</span>
+          <span class="tech-badge">PyTorch</span>
+          <span class="tech-badge">Micro-CT Imaging</span>
+          <span class="tech-badge">Team Leadership</span>
         </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
+        <p style="color: rgba(255, 255, 255, 0.7); margin-top: 15px; font-size: 0.9rem;">
+          <strong>Impact:</strong> Enabled automated foraminifera species classification with unprecedented accuracy
         </p>
-        <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
-        </div>
       </div>
     </div>
 
-    <!-- Project 7 -->
+    <!-- Project 2: Coral Health Assessment -->
     <div class="project-card" data-category="ml">
-      <div class="project-image">🚀</div>
+      <div class="project-image">🪸</div>
       <div class="project-content">
-        <h3 class="project-title">Project Title 7</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Machine Learning
+        <h3 class="project-title">Coral Health Assessment</h3>
+        <p style="color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-bottom: 10px;">
+          <strong>Organization:</strong> KAUST Visualization Lab | <strong>Period:</strong> 2023 - 2025
         </p>
         <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
+          Developed an AI-powered coral health assessment application using Meta's Segment Anything Model (SAM) to analyze underwater coral photographs. 
+          Created containerized solutions and built a user-friendly application for marine scientists to assess coral health indicators.
         </p>
         <div class="project-tech">
-          <span class="tech-badge">CUDA</span>
-          <span class="tech-badge highlight">GPU Computing</span>
-          <span class="tech-badge">NVIDIA</span>
+          <span class="tech-badge highlight">Computer Vision</span>
+          <span class="tech-badge">SAM (Meta AI)</span>
+          <span class="tech-badge">Docker</span>
+          <span class="tech-badge">Python</span>
+          <span class="tech-badge">Marine Biology</span>
         </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
+        <p style="color: rgba(255, 255, 255, 0.7); margin-top: 15px; font-size: 0.9rem;">
+          <strong>Impact:</strong> Published tool (Coral-CAT) enabling semi-automatic coral color analysis for researchers
         </p>
         <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
+          <a href="https://github.com/D-Barradas">GitHub Repo</a>
         </div>
       </div>
     </div>
 
-    <!-- Project 8 -->
-    <div class="project-card" data-category="viz">
-      <div class="project-image">🎯</div>
+    <!-- Project 3: SlideGAN Optimization -->
+    <div class="project-card" data-category="ml">
+      <div class="project-image">⚡</div>
       <div class="project-content">
-        <h3 class="project-title">Project Title 8</h3>
-        <p style="color: #666; font-size: 0.9rem; margin-bottom: 10px;">
-          <strong>Category:</strong> Data Visualization
+        <h3 class="project-title">SlideGAN Optimization</h3>
+        <p style="color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-bottom: 10px;">
+          <strong>Organization:</strong> KAUST Visualization Lab | <strong>Period:</strong> 2023 - 2025
         </p>
         <p class="project-description">
-          [Detailed project description explaining the problem, your approach, tools used, and results achieved]
+          Led engineering team to refactor and optimize SlideGAN code for 3D seismic microstructure generation. 
+          Conducted comprehensive strong scalability testing across multiple GPU configurations to maximize performance.
         </p>
         <div class="project-tech">
-          <span class="tech-badge">Tableau</span>
-          <span class="tech-badge highlight">Business Intelligence</span>
-          <span class="tech-badge">Analytics</span>
+          <span class="tech-badge highlight">GANs</span>
+          <span class="tech-badge">GPU Optimization</span>
+          <span class="tech-badge">HPC</span>
+          <span class="tech-badge">Code Refactoring</span>
+          <span class="tech-badge">Performance Testing</span>
         </div>
-        <p style="color: #666; margin-top: 15px; font-size: 0.9rem;">
-          <strong>Impact:</strong> [Describe the impact or outcome of this project]
+        <p style="color: rgba(255, 255, 255, 0.7); margin-top: 15px; font-size: 0.9rem;">
+          <strong>Impact:</strong> Achieved significant performance improvements enabling faster seismic data generation
+        </p>
+      </div>
+    </div>
+
+    <!-- Project 4: Protein-Protein Interaction Prediction -->
+    <div class="project-card" data-category="ml">
+      <div class="project-image">🧬</div>
+      <div class="project-content">
+        <h3 class="project-title">AI for Protein-Protein Interaction Prediction</h3>
+        <p style="color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-bottom: 10px;">
+          <strong>Organization:</strong> KAUST AI Initiative | <strong>Period:</strong> 2019 - 2023 | <strong>Funding:</strong> USD $112,000
+        </p>
+        <p class="project-description">
+          Secured major funding from KAUST AI Initiative to develop innovative AI strategies for protein-protein interaction prediction at the structural level. 
+          Implemented weakly supervised data augmentation and created three enhanced machine learning classifiers. Produced three peer-reviewed publications.
+        </p>
+        <div class="project-tech">
+          <span class="tech-badge highlight">Machine Learning</span>
+          <span class="tech-badge">Structural Biology</span>
+          <span class="tech-badge">Data Augmentation</span>
+          <span class="tech-badge">Protein Docking</span>
+          <span class="tech-badge">Bioinformatics</span>
+        </div>
+        <p style="color: rgba(255, 255, 255, 0.7); margin-top: 15px; font-size: 0.9rem;">
+          <strong>Impact:</strong> Advanced protein interaction prediction accuracy, resulting in 3 scientific publications
         </p>
         <div class="project-links" style="margin-top: 20px;">
-          <a href="#">View Details</a>
-          <a href="#">GitHub Repo</a>
-          <a href="#">Live Demo</a>
+          <a href="https://scholar.google.com/citations?user=YOUR_ID">Publications</a>
         </div>
+      </div>
+    </div>
+
+    <!-- Project 5: Shaheen III Performance Testing -->
+    <div class="project-card" data-category="data">
+      <div class="project-image">🖥️</div>
+      <div class="project-content">
+        <h3 class="project-title">Shaheen III Supercomputer Performance Testing</h3>
+        <p style="color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; margin-bottom: 10px;">
+          <strong>Organization:</strong> KAUST RCCL | <strong>Period:</strong> 2022 - 2023
+        </p>
+        <p class="project-description">
+          Developed comprehensive benchmark suite for Shaheen III supercomputer performance evaluation. 
+          Created Python-based HPC applications to identify performance bottlenecks and optimize system efficiency for production workloads.
+        </p>
+        <div class="project-tech">
+          <span class="tech-badge highlight">HPC</span>
+          <span class="tech-badge">Python</span>
+          <span class="tech-badge">Benchmarking</span>
+          <span class="tech-badge">Performance Analysis</span>
+          <span class="tech-badge">Supercomputing</span>
+        </div>
+        <p style="color: rgba(255, 255, 255, 0.7); margin-top: 15px; font-size: 0.9rem;">
+          <strong>Impact:</strong> Validated performance capabilities of Shaheen III before production deployment
+        </p>
       </div>
     </div>
 
