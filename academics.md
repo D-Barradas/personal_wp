@@ -18,29 +18,29 @@ permalink: /academics/
   
   <div style="max-width: 900px; margin: 0 auto;">
     <div style="display: flex; gap: 30px; margin-bottom: 50px; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 300px; padding: 30px; background: white; border-left: 5px solid var(--accent-orange); box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-radius: 5px;">
-        <h3 style="color: var(--primary-blue); font-size: 1.2rem; margin-bottom: 8px;">Ph.D. in Bioinformatics</h3>
+      <div style="flex: 1; min-width: 300px; padding: 30px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.3); border-left: 5px solid var(--accent-orange); border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+        <h3 style="color: var(--white); font-size: 1.2rem; margin-bottom: 8px;">Ph.D. in Bioinformatics</h3>
         <p style="color: var(--accent-orange); font-weight: 700; margin-bottom: 8px;">Barcelona Supercomputing Center, Spain</p>
-        <p style="color: #666; margin-bottom: 10px;">📅 2012 - 2017</p>
-        <p style="color: #555; line-height: 1.6;">
+        <p style="color: rgba(255,255,255,0.8); margin-bottom: 10px;">📅 2012 - 2017</p>
+        <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
           Graduated with <strong>Cum laude</strong> honors. Research focused on protein structure prediction using machine learning approaches and computational biology methods.
         </p>
       </div>
-      <div style="flex: 1; min-width: 300px; padding: 30px; background: white; border-left: 5px solid var(--accent-orange); box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-radius: 5px;">
-        <h3 style="color: var(--primary-blue); font-size: 1.2rem; margin-bottom: 8px;">M.Sc. in Biochemical Sciences</h3>
+      <div style="flex: 1; min-width: 300px; padding: 30px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.3); border-left: 5px solid var(--accent-orange); border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+        <h3 style="color: var(--white); font-size: 1.2rem; margin-bottom: 8px;">M.Sc. in Biochemical Sciences</h3>
         <p style="color: var(--accent-orange); font-weight: 700; margin-bottom: 8px;">National Autonomous University of Mexico</p>
-        <p style="color: #666; margin-bottom: 10px;">📅 2008 - 2011</p>
-        <p style="color: #555; line-height: 1.6;">
+        <p style="color: rgba(255,255,255,0.8); margin-bottom: 10px;">📅 2008 - 2011</p>
+        <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
           Advanced studies in biochemical sciences with focus on molecular biology and computational approaches to biological problems.
         </p>
       </div>
     </div>
 
-    <div style="padding: 30px; background: var(--light-gray); border-left: 5px solid var(--primary-blue); border-radius: 5px; margin-bottom: 30px;">
-      <h3 style="color: var(--primary-blue); font-size: 1.2rem; margin-bottom: 8px;">📖 B.Sc. in Science</h3>
+    <div style="padding: 30px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); margin-bottom: 30px;">
+      <h3 style="color: var(--white); font-size: 1.2rem; margin-bottom: 8px;">📖 B.Sc. in Science</h3>
       <p style="color: var(--accent-orange); font-weight: 700; margin-bottom: 8px;">Autonomous University of Morelos, Mexico</p>
-      <p style="color: #666; margin-bottom: 10px;">📅 2003 - 2008</p>
-      <p style="color: #555; line-height: 1.6;">
+      <p style="color: rgba(255,255,255,0.8); margin-bottom: 10px;">📅 2003 - 2008</p>
+      <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
         Undergraduate degree providing foundational scientific knowledge across multiple disciplines including biology, chemistry, and mathematics.
       </p>
     </div>
@@ -110,68 +110,68 @@ permalink: /academics/
   
   <div style="max-width: 900px; margin: 0 auto;">
     
-    <div style="padding: 25px; background: white; border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap;">
+    <div style="padding: 25px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 12px;">
         <div>
-          <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 5px;">💰 KAUST AI Initiative Grant</h3>
-          <p style="color: #666; margin-bottom: 8px;">KAUST, Saudi Arabia</p>
-          <p style="color: #555; line-height: 1.6;">
+          <h3 style="color: var(--white); font-weight: 700; margin-bottom: 5px;">💰 KAUST AI Initiative Grant</h3>
+          <p style="color: rgba(255,255,255,0.8); margin-bottom: 8px;">KAUST, Saudi Arabia</p>
+          <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
             Secured USD $112k exploratory research grant for data generation, curation, AI development and testing for protein-protein interaction prediction project.
           </p>
         </div>
-        <span style="color: var(--accent-orange); font-weight: 700; padding: 5px 15px; background: var(--light-gray); border-radius: 20px; white-space: nowrap;">📅 2020</span>
+        <span style="color: var(--accent-orange); font-weight: 700; padding: 6px 16px; background: rgba(255,255,255,0.08); border-radius: 20px; white-space: nowrap;">📅 2020</span>
       </div>
     </div>
 
-    <div style="padding: 25px; background: white; border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap;">
+    <div style="padding: 25px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 12px;">
         <div>
-          <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 5px;">🏅 National Researchers System Member</h3>
-          <p style="color: #666; margin-bottom: 8px;">CONACYT, Mexico</p>
-          <p style="color: #555; line-height: 1.6;">
+          <h3 style="color: var(--white); font-weight: 700; margin-bottom: 5px;">🏅 National Researchers System Member</h3>
+          <p style="color: rgba(255,255,255,0.8); margin-bottom: 8px;">CONACYT, Mexico</p>
+          <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
             Recognition as member of Mexico's National Researchers System for outstanding contributions to scientific research and development.
           </p>
         </div>
-        <span style="color: var(--accent-orange); font-weight: 700; padding: 5px 15px; background: var(--light-gray); border-radius: 20px; white-space: nowrap;">📅 2018</span>
+        <span style="color: var(--accent-orange); font-weight: 700; padding: 6px 16px; background: rgba(255,255,255,0.08); border-radius: 20px; white-space: nowrap;">📅 2018</span>
       </div>
     </div>
 
-    <div style="padding: 25px; background: white; border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap;">
+    <div style="padding: 25px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 12px;">
         <div>
-          <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 5px;">🎓 Ph.D. Cum Laude</h3>
-          <p style="color: #666; margin-bottom: 8px;">Universitat de Barcelona, Spain</p>
-          <p style="color: #555; line-height: 1.6;">
+          <h3 style="color: var(--white); font-weight: 700; margin-bottom: 5px;">🎓 Ph.D. Cum Laude</h3>
+          <p style="color: rgba(255,255,255,0.8); margin-bottom: 8px;">Universitat de Barcelona, Spain</p>
+          <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
             Awarded highest honors (Cum laude) for doctoral dissertation in Bioinformatics on protein structure prediction and machine learning.
           </p>
         </div>
-        <span style="color: var(--accent-orange); font-weight: 700; padding: 5px 15px; background: var(--light-gray); border-radius: 20px; white-space: nowrap;">📅 2017</span>
+        <span style="color: var(--accent-orange); font-weight: 700; padding: 6px 16px; background: rgba(255,255,255,0.08); border-radius: 20px; white-space: nowrap;">📅 2017</span>
       </div>
     </div>
 
-    <div style="padding: 25px; background: white; border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap;">
+    <div style="padding: 25px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 12px;">
         <div>
-          <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 5px;">📢 Scientific Communication Award</h3>
-          <p style="color: #666; margin-bottom: 8px;">"Somos Científicos, Sácanos de Aquí", Spain</p>
-          <p style="color: #555; line-height: 1.6;">
+          <h3 style="color: var(--white); font-weight: 700; margin-bottom: 5px;">📢 Scientific Communication Award</h3>
+          <p style="color: rgba(255,255,255,0.8); margin-bottom: 8px;">"Somos Científicos, Sácanos de Aquí", Spain</p>
+          <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
             Recognized for excellence in science communication and public engagement in explaining complex scientific concepts to general audiences.
           </p>
         </div>
-        <span style="color: var(--accent-orange); font-weight: 700; padding: 5px 15px; background: var(--light-gray); border-radius: 20px; white-space: nowrap;">📅 2016</span>
+        <span style="color: var(--accent-orange); font-weight: 700; padding: 6px 16px; background: rgba(255,255,255,0.08); border-radius: 20px; white-space: nowrap;">📅 2016</span>
       </div>
     </div>
 
-    <div style="padding: 25px; background: white; border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap;">
+    <div style="padding: 25px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); border-left: 5px solid var(--primary-blue); margin-bottom: 20px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+      <div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 12px;">
         <div>
-          <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 5px;">⭐ CONACYT International Scholarship</h3>
-          <p style="color: #666; margin-bottom: 8px;">CONACYT, Mexico</p>
-          <p style="color: #555; line-height: 1.6;">
+          <h3 style="color: var(--white); font-weight: 700; margin-bottom: 5px;">⭐ CONACYT International Scholarship</h3>
+          <p style="color: rgba(255,255,255,0.8); margin-bottom: 8px;">CONACYT, Mexico</p>
+          <p style="color: rgba(255,255,255,0.78); line-height: 1.6;">
             Prestigious international scholarship for development of highly qualified professionals, supporting doctoral studies in Spain.
           </p>
         </div>
-        <span style="color: var(--accent-orange); font-weight: 700; padding: 5px 15px; background: var(--light-gray); border-radius: 20px; white-space: nowrap;">📅 2012</span>
+        <span style="color: var(--accent-orange); font-weight: 700; padding: 6px 16px; background: rgba(255,255,255,0.08); border-radius: 20px; white-space: nowrap;">📅 2012</span>
       </div>
     </div>
 
