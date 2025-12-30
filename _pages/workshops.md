@@ -34,7 +34,9 @@ permalink: /workshops/
       {% for w in vids %}
       <div style="background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(10px); border: 1px solid rgba(255, 140, 0, 0.3); border-radius: 12px; overflow: hidden; transition: all 0.4s ease;">
         {% if w.video_id %}
-        <iframe width="100%" height="250" src="https://www.youtube.com/embed/{{ w.video_id }}" title="{{ w.title }}" style="border: none;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen></iframe>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+          <iframe src="https://www.youtube.com/embed/{{ w.video_id }}" title="{{ w.title }}" loading="lazy" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
         {% else %}
         <div style="position: relative; width: 100%; padding-bottom: 56.25%; background: linear-gradient(135deg, #0a1628, #1a2845); display: flex; align-items: center; justify-content: center;">
           <a href="{{ w.external_url }}" target="_blank" style="position: absolute; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; text-decoration: none;">
