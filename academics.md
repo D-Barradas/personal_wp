@@ -353,16 +353,20 @@ permalink: /academics/
 <section class="contact-section">
   <div class="contact-content">
     <h2 style="color: white; font-size: 2rem; margin-bottom: 15px;">Learn More About My Work</h2>
-    <p class="contact-description">
+    <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-bottom: 25px;">
       Interested in collaborating or learning more about my research and teaching experience?
     </p>
-    <div class="contact-links">
-      <a href="/#projects" class="contact-item">
-        <i class="fas fa-briefcase"></i> View Projects
-      </a>
-      <a href="/#contact" class="contact-item">
-        <i class="fas fa-envelope"></i> Contact Me
-      </a>
-    </div>
+    <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px;">
+      <li>
+        <a href="/#projects" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+          <i class="fas fa-briefcase"></i> View Projects
+        </a>
+      </li>
+      <li>
+        <a href="/#contact" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; display: flex; align-items: center; gap: 10px;">
+          <i class="fas fa-envelope"></i> Contact Me
+        </a>
+      </li>
+    </ul>
   </div>
 </section>
