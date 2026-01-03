@@ -16,72 +16,72 @@ permalink: /contact/
 <section class="section-container">
   <h2 class="section-title">Ways to Reach Me</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; max-width: 1000px; margin: 0 auto; margin-bottom: 50px;">
+  <div style="max-width: 900px; margin: 0 auto; margin-bottom: 50px;">
     
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        ✉️
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); margin-bottom: 18px; display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">✉️</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">Email</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">Direct and reliable communication</p>
+        <a href="mailto:didier.barradasbautista@kaust.edu.sa" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">
+          didier.barradasbautista@kaust.edu.sa
+        </a>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">Email</h3>
-      <p style="color: #666; margin-bottom: 15px;">Direct and reliable communication</p>
-      <a href="mailto:didier.barradasbautista@kaust.edu.sa" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        didier.barradasbautista@kaust.edu.sa
-      </a>
     </div>
 
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        💼
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); margin-bottom: 18px; display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">💼</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">LinkedIn</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">Professional networking & updates</p>
+        <a href="https://linkedin.com/in/didier-barradas-bautista" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">
+          Connect on LinkedIn
+        </a>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">LinkedIn</h3>
-      <p style="color: #666; margin-bottom: 15px;">Professional networking & updates</p>
-      <a href="https://linkedin.com/in/didier-barradas-bautista" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        Connect on LinkedIn
-      </a>
     </div>
 
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        🐙
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); margin-bottom: 18px; display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">🐙</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">GitHub</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">View my code & contributions</p>
+        <a href="https://github.com/D-Barradas" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">
+          Follow on GitHub
+        </a>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">GitHub</h3>
-      <p style="color: #666; margin-bottom: 15px;">View my code & contributions</p>
-      <a href="https://github.com/D-Barradas" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        Follow on GitHub
-      </a>
     </div>
 
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        🐦
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); margin-bottom: 18px; display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">🐦</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">Twitter</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">Follow for AI & data science updates</p>
+        <a href="https://twitter.com/dxbarradas" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">
+          @dxbarradas
+        </a>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">Twitter</h3>
-      <p style="color: #666; margin-bottom: 15px;">Follow for AI & data science updates</p>
-      <a href="https://twitter.com/dxbarradas" target="_blank" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        @dxbarradas
-      </a>
     </div>
 
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        📍
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); margin-bottom: 18px; display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">📍</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">Location</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">Available for workshops & collaboration</p>
+        <p style="color: var(--accent-orange); font-weight: 600; margin: 0;">
+          Khobar, Saudi Arabia
+        </p>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">Location</h3>
-      <p style="color: #666; margin-bottom: 15px;">Available for workshops & collaboration</p>
-      <p style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        [Your Location/Timezone]
-      </p>
     </div>
 
-    <div style="background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; border-top: 4px solid var(--accent-orange);">
-      <div style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--primary-blue), var(--light-blue)); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 28px; margin: 0 auto 15px;">
-        🎓
+    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 25px; border-radius: 8px; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border-left: 5px solid var(--accent-orange); display: flex; gap: 20px; align-items: flex-start;">
+      <div style="font-size: 28px; min-width: 40px;">🎓</div>
+      <div style="flex: 1;">
+        <h3 style="color: var(--white); font-weight: 700; margin: 0 0 5px 0; font-size: 1.1rem;">Research</h3>
+        <p style="color: rgba(255,255,255,0.75); margin: 0 0 10px 0; font-size: 0.95rem;">Interested in research collaboration?</p>
+        <a href="mailto:didier.barradasbautista@kaust.edu.sa?subject=Research%20Collaboration" style="color: var(--accent-orange); text-decoration: none; font-weight: 600;">
+          Propose a Project
+        </a>
       </div>
-      <h3 style="color: var(--primary-blue); font-weight: 700; margin-bottom: 10px;">Research</h3>
-      <p style="color: #666; margin-bottom: 15px;">Interested in research collaboration?</p>
-      <a href="mailto:your.email@example.com?subject=Research%20Collaboration" style="color: var(--accent-orange); text-decoration: none; font-weight: 600; font-size: 1rem;">
-        Propose a Project
-      </a>
     </div>
 
   </div>
@@ -92,32 +92,32 @@ permalink: /contact/
   <h2 class="section-title">Quick Message</h2>
   
   <div style="max-width: 700px; margin: 0 auto;">
-    <form style="background: white; padding: 40px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <form style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 40px; border-radius: 10px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
       
       <div style="margin-bottom: 25px;">
-        <label style="display: block; color: var(--primary-blue); font-weight: 700; margin-bottom: 8px;">Your Name</label>
-        <input type="text" name="name" placeholder="Enter your full name" required style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 5px; font-size: 1rem; transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='#ddd'">
+        <label style="display: block; color: var(--white); font-weight: 700; margin-bottom: 8px;">Your Name</label>
+        <input type="text" name="name" placeholder="Enter your full name" required style="width: 100%; padding: 12px; border: 2px solid rgba(255,140,0,0.3); border-radius: 5px; font-size: 1rem; background: rgba(255,255,255,0.05); color: var(--white); transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='rgba(255,140,0,0.3)'">
       </div>
 
       <div style="margin-bottom: 25px;">
-        <label style="display: block; color: var(--primary-blue); font-weight: 700; margin-bottom: 8px;">Your Email</label>
-        <input type="email" name="email" placeholder="Enter your email address" required style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 5px; font-size: 1rem; transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='#ddd'">
+        <label style="display: block; color: var(--white); font-weight: 700; margin-bottom: 8px;">Your Email</label>
+        <input type="email" name="email" placeholder="Enter your email address" required style="width: 100%; padding: 12px; border: 2px solid rgba(255,140,0,0.3); border-radius: 5px; font-size: 1rem; background: rgba(255,255,255,0.05); color: var(--white); transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='rgba(255,140,0,0.3)'">
       </div>
 
       <div style="margin-bottom: 25px;">
-        <label style="display: block; color: var(--primary-blue); font-weight: 700; margin-bottom: 8px;">Subject</label>
-        <input type="text" name="subject" placeholder="What is this about?" required style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 5px; font-size: 1rem; transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='#ddd'">
+        <label style="display: block; color: var(--white); font-weight: 700; margin-bottom: 8px;">Subject</label>
+        <input type="text" name="subject" placeholder="What is this about?" required style="width: 100%; padding: 12px; border: 2px solid rgba(255,140,0,0.3); border-radius: 5px; font-size: 1rem; background: rgba(255,255,255,0.05); color: var(--white); transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='rgba(255,140,0,0.3)'">
       </div>
 
       <div style="margin-bottom: 25px;">
-        <label style="display: block; color: var(--primary-blue); font-weight: 700; margin-bottom: 8px;">Message</label>
-        <textarea name="message" rows="6" placeholder="Tell me about your inquiry, project idea, or collaboration opportunity..." required style="width: 100%; padding: 12px; border: 2px solid #ddd; border-radius: 5px; font-size: 1rem; font-family: inherit; transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='#ddd'"></textarea>
+        <label style="display: block; color: var(--white); font-weight: 700; margin-bottom: 8px;">Message</label>
+        <textarea name="message" rows="6" placeholder="Tell me about your inquiry, project idea, or collaboration opportunity..." required style="width: 100%; padding: 12px; border: 2px solid rgba(255,140,0,0.3); border-radius: 5px; font-size: 1rem; font-family: inherit; background: rgba(255,255,255,0.05); color: var(--white); transition: all 0.3s;" onfocus="this.style.borderColor='var(--accent-orange)'" onblur="this.style.borderColor='rgba(255,140,0,0.3)'"></textarea>
       </div>
 
       <button type="submit" class="btn-cta" style="width: 100%; padding: 15px;">Send Message</button>
       
-      <p style="text-align: center; color: #999; font-size: 0.9rem; margin-top: 15px;">
-        💡 Tip: For the fastest response, also reach out via email at your.email@example.com
+      <p style="text-align: center; color: rgba(255,255,255,0.7); font-size: 0.9rem; margin-top: 15px;">
+        💡 Tip: For the fastest response, also reach out via email at didier.barradasbautista@kaust.edu.sa
       </p>
 
     </form>
@@ -185,12 +185,12 @@ permalink: /contact/
 
 <!-- Response Time Info -->
 <section class="section-container alternate">
-  <div style="max-width: 600px; margin: 0 auto; text-align: center; background: white; padding: 40px; border-radius: 10px; border-left: 5px solid var(--accent-orange);">
-    <h3 style="color: var(--primary-blue); font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">📧 Expected Response Time</h3>
-    <p style="color: #555; line-height: 1.8; margin-bottom: 20px;">
+  <div style="max-width: 600px; margin: 0 auto; text-align: center; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,140,0,0.25); padding: 40px; border-radius: 10px; border-left: 5px solid var(--accent-orange); box-shadow: 0 12px 32px rgba(0,0,0,0.25);">
+    <h3 style="color: var(--white); font-size: 1.3rem; font-weight: 700; margin-bottom: 15px;">📧 Expected Response Time</h3>
+    <p style="color: rgba(255,255,255,0.85); line-height: 1.8; margin-bottom: 20px;">
       I strive to respond to all inquiries as promptly as possible. Here's what you can expect:
     </p>
-    <ul style="color: #555; line-height: 2; text-align: left; display: inline-block;">
+    <ul style="color: rgba(255,255,255,0.8); line-height: 2; text-align: left; display: inline-block;">
       <li>✅ <strong>Emails:</strong> 24-48 hours</li>
       <li>✅ <strong>Social Media:</strong> 1-3 days</li>
       <li>✅ <strong>Workshop Requests:</strong> 3-5 business days</li>
